@@ -1,9 +1,9 @@
 #!/bin/bash
-
+# 
 # dependencies
-
+# 
 # echo "-- install dependencies --"
-
+# 
 # npm install --save \
 #   @craco/craco \
 #   classnames \
@@ -14,11 +14,12 @@
 #   react-redux \
 #   redux \
 #   redux-thunk
-  
+# 
 # echo "-- finished --"
-
+# 
+# ---------------------
 # echo "-- install dev dependencies --"
-
+# 
 # npm install --save-dev \
 #   craco-alias \
 #   craco-sass-resources-loader \
@@ -34,11 +35,13 @@
 #   stylelint-config-recommended \
 #   stylelint-order \
 #   stylelint-scss
-
+# 
 # echo "-- finished --"
-
+# ---------------------
 # update .gitignore
-
-echo "-- update .gitignore --"
-echo >> ./.gitignore
-wget -qO- https://raw.githubusercontent.com/costaline/cra-initial-setup/master/.gitignore >> ./.gitignore 
+# 
+# echo "-- update .gitignore --"
+# echo >> ./.gitignore
+# wget -qO- https://raw.githubusercontent.com/costaline/cra-initial-setup/master/.gitignore >> ./.gitignore 
+# 
+# echo "-- finished --"
