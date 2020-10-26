@@ -1,0 +1,10 @@
+/node_modules/
+/scripts/
+/build/
+/public/
+/dist/
+/config/*.js
+/src/serviceWorker.js
+/src/config.js
+
+/craco.config.js

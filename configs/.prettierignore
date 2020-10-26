@@ -1,0 +1,7 @@
+/config
+/scripts
+/public
+
+/src/serviceWorker.js
+.eslintrc.js
+craco.config.js

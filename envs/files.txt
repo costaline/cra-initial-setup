@@ -1,0 +1,4 @@
+https://raw.githubusercontent.com/costaline/cra-initial-setup/master/envs/.env
+https://raw.githubusercontent.com/costaline/cra-initial-setup/master/envs/.env.development
+https://raw.githubusercontent.com/costaline/cra-initial-setup/master/envs/.env.local
+https://raw.githubusercontent.com/costaline/cra-initial-setup/master/envs/.env.production

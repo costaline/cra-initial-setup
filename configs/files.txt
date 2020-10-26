@@ -1,0 +1,9 @@
+https://raw.githubusercontent.com/costaline/cra-initial-setup/master/configs/.browserslistrc
+https://raw.githubusercontent.com/costaline/cra-initial-setup/master/configs/.editorconfig
+https://raw.githubusercontent.com/costaline/cra-initial-setup/master/configs/.eslintignore
+https://raw.githubusercontent.com/costaline/cra-initial-setup/master/configs/.eslintrc.js
+https://raw.githubusercontent.com/costaline/cra-initial-setup/master/configs/.prettierignore
+https://raw.githubusercontent.com/costaline/cra-initial-setup/master/configs/.prettierrc
+https://raw.githubusercontent.com/costaline/cra-initial-setup/master/configs/.stylelintrc
+https://raw.githubusercontent.com/costaline/cra-initial-setup/master/configs/craco.config.js
+https://raw.githubusercontent.com/costaline/cra-initial-setup/master/configs/jsconfig.json
